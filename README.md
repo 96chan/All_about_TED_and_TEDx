@@ -5,6 +5,11 @@ Team Members
 
 Chan Kim(chan@ischool.berkeley.edu), JT Huang(jthuang@ischool.berkeley.edu)
 
+Presentation: iPython Notebook
+==============================
+http://nbviewer.ipython.org/5439852 
+
+
 Our Goal
 ================
 
